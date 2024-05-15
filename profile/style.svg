@@ -109,7 +109,7 @@ audio, canvas, video {
 </style>
 <section id="video-intro" class="has--video wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
 			<video width="1920" autoplay="" playsinline="" loop="" muted="" class="bg__video" poster="">
-				<source src="https://www.kittelson.com/wp-content/uploads/2017/08/kai-homepage-video.mp4" type="video/mp4">
+				<source src="https://github.com/kittelson/.github/assets/5150870/a420209c-4f39-4bf8-80a7-bbd89b61a3eb" type="video/mp4">
 			</video>
 			<a href="https://kittelsonassoc.wpengine.com/work" title="Transforming how communities move">
 				<h2>Transforming how communities move</h2>
