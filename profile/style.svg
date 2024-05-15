@@ -109,7 +109,7 @@ audio, canvas, video {
 </style>
 <section id="video-intro" class="has--video wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
 			<video width="1920" autoplay="" playsinline="" loop="" muted="" class="bg__video" poster="">
-				<source src="https://github.com/kittelson/.github/assets/5150870/a420209c-4f39-4bf8-80a7-bbd89b61a3eb" type="video/mp4">
+				<source src="https://github-production-user-asset-6210df.s3.amazonaws.com/5150870/330950378-a420209c-4f39-4bf8-80a7-bbd89b61a3eb.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240515%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240515T202919Z&X-Amz-Expires=300&X-Amz-Signature=2976070999247a6a0236c2991cd119062ecc090d962788e794f3e5a2f5794641&X-Amz-SignedHeaders=host&actor_id=5150870&key_id=0&repo_id=801218157" type="video/mp4">
 			</video>
 			<a href="https://kittelsonassoc.wpengine.com/work" title="Transforming how communities move">
 				<h2>Transforming how communities move</h2>
