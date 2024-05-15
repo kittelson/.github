@@ -2,9 +2,6 @@
 ## We solve complex transportation problems to improve people's everyday lives.
 
 https://github.com/kittelson/.github/assets/5150870/a420209c-4f39-4bf8-80a7-bbd89b61a3eb
-
-
-<img src="style.svg">
     
 Kittelson provides transportation consulting services nationwide to local, state, and federal transporation agencies as well as provides development services to private entities. As part of these services, Kittelson has conducted research at state and federal levels on a variety of traffic operation, capacity, safety, and complete streets topics. 
     
